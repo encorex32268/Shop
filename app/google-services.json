@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "609669955417",
+    "firebase_url": "https://shop-cbe9f.firebaseio.com",
+    "project_id": "shop-cbe9f",
+    "storage_bucket": "shop-cbe9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609669955417:android:06a055358ff953ff",
+        "android_client_info": {
+          "package_name": "com.lee.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609669955417-gna5hb3ouiuovi02vjs38p2hvqh2t7th.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lee.shop",
+            "certificate_hash": "636012bd6da3714ef1326bbea65262e8ac55b341"
+          }
+        },
+        {
+          "client_id": "609669955417-hs71fmilpma5hfncvldgvdjrf12i1n4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASymdU8vrNl9bwlIJv6pdLwZfq10jG08Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609669955417-hs71fmilpma5hfncvldgvdjrf12i1n4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
